@@ -1,0 +1,50 @@
+body {
+	padding: 30px;
+	font-size: 0px;
+}
+
+div {
+	border-style: solid;
+	border-width: 1px
+	border-color: black;
+}
+
+.main-container {
+	width: 800px;
+	border-style: none;
+	border-width: 0px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.first-line {
+	height: 200px;
+	width: 50%;
+	display: inline-block;
+}
+
+.second-line {
+	height: 300px;
+	width: 33.33%;
+	display: inline-block;
+}
+
+.green {
+	background-color: green;
+}
+
+.blue {
+	background-color: blue;
+}
+
+.grey {
+	background-color: grey;
+}
+
+.black {
+	background-color: black;
+}
+
+.gold {
+	background-color: gold;
+}
